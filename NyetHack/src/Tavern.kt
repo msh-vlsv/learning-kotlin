@@ -6,20 +6,16 @@ fun main(args: Array<String>) {
 //            "Buttered Ale"
 //        }
 //    }
-
 //    var beverage = readLine()!!.capitalize()
 
     var beverage = readLine()
-//        beverage = null
     if (beverage != null) {
         beverage = beverage.capitalize()
     } else {
-        println("I can't do that without crashing - beverage is null!!")
+        println("I can't do that without crashing - beverage is null!")
     }
-
-//        beverage = null
+//    beverage = null
     println(beverage)
-
 
     val beverageServed: String = beverage ?: "Buttered Ale"
     println(beverageServed)
