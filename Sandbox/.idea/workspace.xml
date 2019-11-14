@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c54af29-f05a-4dae-a81c-bac498a05532" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../NyetHack/src/Tavern.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../NyetHack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NyetHack/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NyetHack/src/Tavern.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../NyetHack/src/Tavern.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SwordJuggler.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tavern.kt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
